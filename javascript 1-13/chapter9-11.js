@@ -144,6 +144,19 @@
 // }
 
 
+//question 8
+
+// var pro = prompt("enter number")
+
+// inp = pro/3;
+
+// if(inp ==pro / 3){
+// alert("can be divide")
+// }else(
+//     alert("cannot be divide")
+// )
+
+
 
 //question 10
 
