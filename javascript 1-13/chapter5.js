@@ -101,7 +101,7 @@
 // document.write("percentage :"+ per)
 
 
-//question 8
+//question 9
 
 // var dollar = 104*10;
 // var riyal = 28*25;
